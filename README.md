@@ -14,7 +14,7 @@ Finally, React Router was also added to the project as a way to create the exper
 
 ## View The Project Online
 
-You can view a deployed version of my myReads application at the following address: http://jamoverjelly.github.io/React-Project-MyReads/
+You can view a deployed version of my myReads application at the following address: http://jamoverjelly.github.io/fend-react-project-myreads
 
 ## Running The Project
 
