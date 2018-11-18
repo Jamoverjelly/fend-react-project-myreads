@@ -1,0 +1,26 @@
+{
+  "name": "fend-react-project-myreads",
+  "version": "1.0.0",
+  "description": "Udacity React Project: myReads Application",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^2.1.1",
+    "node": "^11.1.0",
+    "npm": "^6.4.1",
+    "react-scripts": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamoverjelly/fend-react-project-myreads.git"
+  },
+  "author": "Jamie Strausbaugh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jamoverjelly/fend-react-project-myreads/issues"
+  },
+  "homepage": "https://github.com/Jamoverjelly/fend-react-project-myreads"
+}
