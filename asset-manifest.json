@@ -1,7 +1,7 @@
 {
   "main.css": "/fend-react-project-myreads/static/css/main.247c89f9.chunk.css",
-  "main.js": "/fend-react-project-myreads/static/js/main.f39a46ee.chunk.js",
-  "main.js.map": "/fend-react-project-myreads/static/js/main.f39a46ee.chunk.js.map",
+  "main.js": "/fend-react-project-myreads/static/js/main.9ea60ecc.chunk.js",
+  "main.js.map": "/fend-react-project-myreads/static/js/main.9ea60ecc.chunk.js.map",
   "static/js/1.454a98a5.chunk.js": "/fend-react-project-myreads/static/js/1.454a98a5.chunk.js",
   "static/js/1.454a98a5.chunk.js.map": "/fend-react-project-myreads/static/js/1.454a98a5.chunk.js.map",
   "runtime~main.js": "/fend-react-project-myreads/static/js/runtime~main.4a6e7d69.js",
@@ -9,6 +9,6 @@
   "static/css/main.247c89f9.chunk.css.map": "/fend-react-project-myreads/static/css/main.247c89f9.chunk.css.map",
   "static/media/App.css": "/fend-react-project-myreads/static/media/arrow-back.3687aa98.svg",
   "index.html": "/fend-react-project-myreads/index.html",
-  "precache-manifest.1e71c5842ed8d42ee2865c9ee6499a79.js": "/fend-react-project-myreads/precache-manifest.1e71c5842ed8d42ee2865c9ee6499a79.js",
+  "precache-manifest.8090dd7052a343ed482c5f53e4645cfb.js": "/fend-react-project-myreads/precache-manifest.8090dd7052a343ed482c5f53e4645cfb.js",
   "service-worker.js": "/fend-react-project-myreads/service-worker.js"
 }

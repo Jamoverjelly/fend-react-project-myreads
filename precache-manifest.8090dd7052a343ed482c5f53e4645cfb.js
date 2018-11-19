@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/fend-react-project-myreads/static/js/runtime~main.4a6e7d69.js"
   },
   {
-    "revision": "f39a46eea4f822e60293",
-    "url": "/fend-react-project-myreads/static/js/main.f39a46ee.chunk.js"
+    "revision": "9ea60ecccb0923102f85",
+    "url": "/fend-react-project-myreads/static/js/main.9ea60ecc.chunk.js"
   },
   {
     "revision": "454a98a5f941fd3dd2c9",
     "url": "/fend-react-project-myreads/static/js/1.454a98a5.chunk.js"
   },
   {
-    "revision": "f39a46eea4f822e60293",
+    "revision": "9ea60ecccb0923102f85",
     "url": "/fend-react-project-myreads/static/css/main.247c89f9.chunk.css"
   },
   {
-    "revision": "6889836e91379f04431d9c72de8aebf0",
+    "revision": "ac16850b6672b2ecc917f1866fb35678",
     "url": "/fend-react-project-myreads/index.html"
   }
 ];
