@@ -99,7 +99,7 @@ class MainPage extends Component {
                     {/* adding link functionality from React Router */}
                     <Link
                       // specify url path for viewing search page
-                      to='/search'
+                      to='/fend-react-project-myreads/search'
                     >Add a book</Link>
                 </div>
             </div>

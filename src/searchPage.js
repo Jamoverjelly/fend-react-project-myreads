@@ -53,7 +53,7 @@ class SearchPage extends Component {
           {/* adding link functionality from React Router */}
           <Link
             // specify url path for viewing main page
-            to="/"
+            to="/fend-react-project-myreads/"
             className="close-search"          
           >Close</Link>
           
