@@ -37,7 +37,7 @@ class BooksApp extends React.Component {
     return (
       <div className="app">
         {/* route for rendering main page */}
-        <Route exact path='/' render={() => (
+        <Route exact path='/fend-react-project-myreads/' render={() => (
           <MainPage
             // booksList state can be passed to MainPage component as immutable props, books
             books={this.state.booksList}
@@ -46,7 +46,7 @@ class BooksApp extends React.Component {
           />
         )}/>
         {/* route for rendering search page */}
-        <Route path='/search' render={() => (
+        <Route path='/fend-react-project-myreads/search' render={() => (
           <SearchPage
             // provide access to updateShelf method in SearchPage component
             updateShelf={this.updateShelf}
